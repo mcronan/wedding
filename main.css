@@ -1,0 +1,160 @@
+p {
+	font-size: 16px;
+}
+
+/***********************
+		Hero Image
+***********************/
+.img-container {
+	background-image: url("hero-3.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 800px;
+}
+
+.spacer-1 {
+	height: 90px;
+}
+
+.spacer {
+	height: 20px;
+}
+
+/***********************
+ Buttons - Color Change
+***********************/
+.inline {
+	display: inline-block;
+	list-style-type: none;
+}
+
+.location {
+	padding: 15px 35px;
+	border: 2px solid #5fcf80;
+	margin-right: -5px;
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	background-color: #5fcf80;
+}
+
+.accommodation {
+	padding:  15px 35px;
+	border: 2px solid #5fcf80;
+	font-weight: bold;
+	color: #5fcf80;
+}
+
+.flights {
+	padding: 15px 35px;
+	border: 2px solid #5fcf80;
+	color:  #5fcf80;
+	text-decoration: none;
+	font-weight: bold;
+	margin-left: -5px;
+}
+
+.other {
+	padding: 15px 35px;
+	border: 2px solid #5fcf80;
+	font-weight: bold;
+	color: #5fcf80;
+	margin-left: -5px;
+}
+
+.holiday {
+	padding: 15px 35px;
+	border: 2px solid #5fcf80;
+	font-weight: bold;
+	color: #5fcf80;
+	margin-left: -5px;
+}
+
+.rsvp {
+	padding: 15px 35px;
+	border: 2px solid #5fcf80;
+	color:  #5fcf80;
+	text-decoration: none;
+	font-weight: bold;
+	margin-left: -5px;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+/******************************
+ Buttons - Hide/Display Content
+******************************/
+.accommodation-box {
+	display: none;
+}
+
+.travel-box {
+	display: none;
+}
+
+.holiday-box {
+	display: none;
+}
+
+.other-box {
+	display: none;
+}
+
+.rsvp-box {
+	display: none;
+}
+
+/***********************
+		Location
+***********************/
+.peubla-img {
+	background-image: url("peubla.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 600px;
+}
+
+.cholula-img {
+	background-image: url("cholula-3.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 800px;
+}
+
+
+.cholula-2-img {
+	background-image: url("venue.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 600px;
+}
+
+/***********************
+		Holiday
+***********************/
+
+.holiday-img {
+	background-image: url("cancun.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 600px;
+}
+
+.holiday-img-2 {
+	background-image: url("holiday.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+}
+/***********************
+		Footer
+***********************/
+.footer {
+	height: 80px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding-top: 30px;
+}
+

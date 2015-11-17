@@ -72,7 +72,7 @@ $(function() {
 	})
 
 	$('.accommodation').on('click', function() {
-		$('.activities').css({
+		$('.holiday').css({
 			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
@@ -120,7 +120,7 @@ $(function() {
 	})
 
 	$('.flights').on('click', function() {
-		$('.activities').css({
+		$('.holiday').css({
 			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
@@ -141,7 +141,7 @@ $(function() {
 	})
 
 // ***********************************
-		 // Activities Button
+		 // Flights Button
 // ************************************
 
 

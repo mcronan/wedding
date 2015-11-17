@@ -6,41 +6,41 @@ $(function() {
 	$('.location').on('click', function() {
 		$('.location').css({
 			'color' : 'white', 
-			'background-color' : '#5fcf80'
+			'background-color' : '#de00a5'
 		})
 	})
 
 	$('.location').on('click', function() {
 		$('.accommodation').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.location').on('click', function() {
 		$('.flights').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.location').on('click', function() {
 		$('.holiday').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.location').on('click', function() {
 		$('.other').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.location').on('click', function() {
 		$('.rsvp').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
@@ -53,41 +53,41 @@ $(function() {
 	$('.accommodation').on('click', function() {
 		$('.accommodation').css({
 			'color' : 'white', 
-			'background-color' : '#5fcf80'
+			'background-color' : '#de00a5'
 		})
 	})
 
 	$('.accommodation').on('click', function() {
 		$('.location').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.accommodation').on('click', function() {
 		$('.flights').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.accommodation').on('click', function() {
 		$('.activities').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.accommodation').on('click', function() {
 		$('.other').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.accommodation').on('click', function() {
 		$('.rsvp').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
@@ -101,41 +101,41 @@ $(function() {
 	$('.flights').on('click', function() {
 		$('.flights').css({
 			'color' : 'white', 
-			'background-color' : '#5fcf80'
+			'background-color' : '#de00a5'
 		})
 	})
 
 	$('.flights').on('click', function() {
 		$('.location').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.flights').on('click', function() {
 		$('.accommodation').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.flights').on('click', function() {
 		$('.activities').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.flights').on('click', function() {
 		$('.other').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.flights').on('click', function() {
 		$('.rsvp').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
@@ -148,41 +148,41 @@ $(function() {
 	$('.holiday').on('click', function() {
 		$('.holiday').css({
 			'color' : 'white', 
-			'background-color' : '#5fcf80'
+			'background-color' : '#de00a5'
 		})
 	})
 
 	$('.holiday').on('click', function() {
 		$('.location').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.holiday').on('click', function() {
 		$('.accommodation').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.holiday').on('click', function() {
 		$('.flights').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.holiday').on('click', function() {
 		$('.other').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.holiday').on('click', function() {
 		$('.rsvp').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
@@ -195,27 +195,27 @@ $(function() {
 	$('.rsvp').on('click', function() {
 		$('.rsvp').css({
 			'color' : 'white', 
-			'background-color' : '#5fcf80'
+			'background-color' : '#de00a5'
 		})
 	})
 
 	$('.rsvp').on('click', function() {
 		$('.location').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.rsvp').on('click', function() {
 		$('.accommodation').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.rsvp').on('click', function() {
 		$('.flights').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
@@ -223,14 +223,14 @@ $(function() {
 
 	$('.rsvp').on('click', function() {
 		$('.other').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.rsvp').on('click', function() {
 		$('.holiday').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
@@ -243,41 +243,41 @@ $(function() {
 	$('.other').on('click', function() {
 		$('.other').css({
 			'color' : 'white', 
-			'background-color' : '#5fcf80'
+			'background-color' : '#de00a5'
 		})
 	})
 
 	$('.other').on('click', function() {
 		$('.location').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.other').on('click', function() {
 		$('.accommodation').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.other').on('click', function() {
 		$('.flights').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.other').on('click', function() {
 		$('.holiday').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})
 
 	$('.other').on('click', function() {
 		$('.rsvp').css({
-			'color' : '#5fcf80', 
+			'color' : '#de00a5', 
 			'background-color' : 'white'
 		})
 	})

@@ -1,6 +1,18 @@
+/****** Font size and family ***/
 p {
 	font-size: 16px;
 }
+
+@import url('http://fonts.googleapis.com/css?family=Lato&subset=latin');
+
+p, h1, h2, h3, h4, h5 {
+	font-family: 'lato', sans-serif !important;
+}
+
+.subtitle {
+	color: #4a4d55;
+}
+
 
 /***********************
 		Hero Image
@@ -12,12 +24,30 @@ p {
 	height: 700px;
 }
 
+.spacer-2 {
+	height: 40px;
+}
 .spacer-1 {
 	height: 90px;
 }
 
 .spacer {
 	height: 20px;
+}
+/***********************
+		Title
+***********************/
+
+.the-title {
+	color: #de00a5;
+}
+
+.font-size-h1 {
+	font-size: 46px;
+	font-weight: bold;	
+}
+.font-size-h2 {
+	font-size: 36px;
 }
 
 /***********************
@@ -30,27 +60,27 @@ p {
 
 .location {
 	padding: 15px 35px;
-	border: 2px solid #5fcf80;
+	border: 2px solid #de00a5;
 	margin-right: -5px;
 	border-top-left-radius: 8px;
 	border-bottom-left-radius: 8px;
 	color: white;
 	text-decoration: none;
 	font-weight: bold;
-	background-color: #5fcf80;
+	background-color: #de00a5;
 }
 
 .accommodation {
 	padding:  15px 35px;
-	border: 2px solid #5fcf80;
+	border: 2px solid #de00a5;
 	font-weight: bold;
-	color: #5fcf80;
+	color: #de00a5;
 }
 
 .flights {
 	padding: 15px 35px;
-	border: 2px solid #5fcf80;
-	color:  #5fcf80;
+	border: 2px solid #de00a5;
+	color:  #de00a5;
 	text-decoration: none;
 	font-weight: bold;
 	margin-left: -5px;
@@ -58,24 +88,24 @@ p {
 
 .other {
 	padding: 15px 35px;
-	border: 2px solid #5fcf80;
+	border: 2px solid #de00a5;
 	font-weight: bold;
-	color: #5fcf80;
+	color: #de00a5;
 	margin-left: -5px;
 }
 
 .holiday {
 	padding: 15px 35px;
-	border: 2px solid #5fcf80;
+	border: 2px solid #de00a5;
 	font-weight: bold;
-	color: #5fcf80;
+	color: #de00a5;
 	margin-left: -5px;
 }
 
 .rsvp {
 	padding: 15px 35px;
-	border: 2px solid #5fcf80;
-	color:  #5fcf80;
+	border: 2px solid #de00a5;
+	color:  #de00a5;
 	text-decoration: none;
 	font-weight: bold;
 	margin-left: -5px;
@@ -153,8 +183,9 @@ p {
 ***********************/
 .footer {
 	height: 80px;
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
 	padding-top: 30px;
+	background-color: #ededee;
+	font-weight: bold;
+	color: #4a4d55;
 }
 

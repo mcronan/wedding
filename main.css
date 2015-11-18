@@ -4,7 +4,7 @@ p {
 }
 
 @import url('http://fonts.googleapis.com/css?family=Lato&subset=latin');
-
+@import url('https://fonts.googleapis.com/css?family=PT+Serif')
 p, h1, h2, h3, h4, h5 {
 	font-family: 'lato', sans-serif !important;
 }
@@ -18,7 +18,7 @@ p, h1, h2, h3, h4, h5 {
 		Hero Image
 ***********************/
 .img-container {
-	background-image: url("hero-3.jpg");
+	background-image: url("");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 700px;
@@ -40,6 +40,7 @@ p, h1, h2, h3, h4, h5 {
 
 .the-title {
 	color: #de00a5;
+	font-family: 'PT Serif';
 }
 
 .font-size-h1 {
@@ -161,6 +162,14 @@ p, h1, h2, h3, h4, h5 {
 	height: 600px;
 }
 
+.center-block {
+	display: block; 
+	margin-left: auto;
+	margin-right: auto;
+}
+.chevron {
+	font-size: 5em;
+}
 /***********************
 		Holiday
 ***********************/
@@ -189,3 +198,10 @@ p, h1, h2, h3, h4, h5 {
 	color: #4a4d55;
 }
 
+
+/***********************
+		RSVP
+***********************/
+.rsvp-size {
+	font-size: 16px;
+}
